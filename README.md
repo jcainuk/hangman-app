@@ -15,6 +15,7 @@ This is a project I completed as part of Andrew Mead's 'The Modern Javascript Co
 - [Languages](#languages)
 - [Status](#status)
 - [Inspiration](#inspiration)
+- [Considerations](#Considerations)
 - [Contact](#contact)
 
 ## General info
@@ -66,6 +67,10 @@ Project is: COMPLETE
 ## Inspiration
 
 Project created as part of Andrew Mead's 'The Modern JavaScript Course', a 30 hour course on Udemy. I used this to brush up on and consolidate my basic to intermediate JavaScript skills.
+
+## Considerations
+
+This app was designed purely for laptop and desktop computer screens. At the moment it does not work on smartphone screen so moving forward this would need to be fixed and taken into consideration.
 
 ## Contact
 
